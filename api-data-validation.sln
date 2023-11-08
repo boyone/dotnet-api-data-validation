@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api", "api\api.csproj", "{C5C4BC38-FAAF-48DA-B40D-4F7CEAFF4BEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api-data-validate-test", "api-data-validate-test\api-data-validate-test.csproj", "{7E50C62C-3ABA-403E-B91E-04FBD1DCC86C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5C4BC38-FAAF-48DA-B40D-4F7CEAFF4BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C4BC38-FAAF-48DA-B40D-4F7CEAFF4BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C4BC38-FAAF-48DA-B40D-4F7CEAFF4BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C4BC38-FAAF-48DA-B40D-4F7CEAFF4BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E50C62C-3ABA-403E-B91E-04FBD1DCC86C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E50C62C-3ABA-403E-B91E-04FBD1DCC86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E50C62C-3ABA-403E-B91E-04FBD1DCC86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E50C62C-3ABA-403E-B91E-04FBD1DCC86C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
