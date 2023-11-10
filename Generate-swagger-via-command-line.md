@@ -42,7 +42,7 @@
 4. Generate Swagger(yaml)
 
    ```shell
-   dotnet swagger tofile --output api.yaml ./api/bin/Debug/net6.0/api.dll v1
+   dotnet swagger tofile --output api.yaml ./bin/Debug/net6.0/api.dll v1
    ```
 
 ---
