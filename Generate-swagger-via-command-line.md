@@ -44,3 +44,10 @@
    ```shell
    swagger tofile --output api.yaml ./api/bin/Debug/net6.0/api.dll v1
    ```
+
+---
+
+## References
+
+- [https://www.nuget.org/packages/Swashbuckle.AspNetCore.Cl](https://www.nuget.org/packages/Swashbuckle.AspNetCore.Cl)
+- [https://github.com/domaindrivendev/Swashbuckle.AspNetCore#swashbuckleaspnetcorecli](https://github.com/domaindrivendev/Swashbuckle.AspNetCore#swashbuckleaspnetcorecli)
