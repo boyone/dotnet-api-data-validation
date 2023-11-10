@@ -12,7 +12,7 @@
    ```
 
    ```shell
-   swagger tofile --output [output] [startupassembly] [swaggerdoc]
+   dotnet swagger tofile --output [output] [startupassembly] [swaggerdoc]
    ```
 
    - [output] is the relative path where the Swagger JSON will be output to
@@ -42,7 +42,7 @@
 4. Generate Swagger(yaml)
 
    ```shell
-   swagger tofile --output api.yaml ./api/bin/Debug/net6.0/api.dll v1
+   dotnet swagger tofile --output api.yaml ./api/bin/Debug/net6.0/api.dll v1
    ```
 
 ---
